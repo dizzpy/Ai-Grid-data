@@ -23,7 +23,7 @@
         "paidOrFree": "Paid",
         "ifPaidPrice": "from $179 / mo",
         "tags": ["All", "Text", "Summarizer"],
-        "shortDescription": "SummarizeBot is an AI and blockchain-powered tool that quickly summarizes various types of content such as documents, images, and audio files. It supports multiple languages and integrates with platforms like Facebook Messenger and Slack, allowing users to obtain summaries directly in their preferred apps.",
+        "shortDescription": "SummarizeBot is an AI-powered tool that quickly summarizes various content types, supports multiple languages, and integrates with platforms like Facebook Messenger and Slack for users.",
         "linkToSite": "https://www.summarizebot.com/"
     }
 ]
