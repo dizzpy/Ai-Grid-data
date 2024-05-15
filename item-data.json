@@ -16,5 +16,14 @@
         "tags": ["NLP", "Chatbot", "AI"],
         "shortDescription": "Elevating Imagination with AI and Design. Unlock creativity with our expert team, hailing from prestigious institutions. We merge design, AI, and human infrastructure for groundbreaking thinking.",
         "linkToSite": "https://www.midjourney.com/home"
+    },
+    {
+        "name": "SummarizeBot",
+        "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzNhx3u-ekDvEUzgGtOTzsqmU-sZm-Gk9znk5DTPSPQ&s",
+        "paidOrFree": "Paid",
+        "ifPaidPrice": "from $179 / mo",
+        "tags": ["All", "Text", "Summarizer"],
+        "shortDescription": "SummarizeBot is an AI and blockchain-powered tool that quickly summarizes various types of content such as documents, images, and audio files. It supports multiple languages and integrates with platforms like Facebook Messenger and Slack, allowing users to obtain summaries directly in their preferred apps.",
+        "linkToSite": "https://www.summarizebot.com/"
     }
 ]
