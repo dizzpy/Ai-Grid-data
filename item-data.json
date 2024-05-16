@@ -38,5 +38,15 @@
         "submittedBy": "Admin",
         "shortDescription": "Imagine is an AI Art Generator that allows users to unleash their creativity by transforming concepts into stunning artworks, allowing them to explore their artistic potential effortlessly.",
         "linkToSite": "https://www.imagine.art/"
+    },
+    {
+        "name": "Gemini",
+        "imageLink": "https://google-bard-ai.org/wp-content/uploads/2024/04/cropped-google-bard-ai-logo.jpeg",
+        "paidOrFree": "Free",
+        "ifPaidPrice": "",
+        "tags": ["Gemini", "Google", "Text"],
+        "submittedBy": "Thanuga Soys",
+        "shortDescription": "Gemini, a large language model from Google AI. I can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way",
+        "linkToSite": "https://gemini.google.com/"
     }
 ]
