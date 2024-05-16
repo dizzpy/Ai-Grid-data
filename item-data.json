@@ -6,6 +6,7 @@
         "ifPaidPrice": "",
         "tags": ["NLP", "Chatbot", "AI"],
         "shortDescription": "Powerful AI model for natural language processing and chatbots.",
+        "submittedBy": "Admin",
         "linkToSite": "https://chat.openai.com/"
     },
     {
@@ -15,6 +16,7 @@
         "ifPaidPrice": "from $20 / mo",
         "tags": ["NLP", "Chatbot", "AI"],
         "shortDescription": "Elevating Imagination with AI and Design. Unlock creativity with our expert team, hailing from prestigious institutions. We merge design, AI, and human infrastructure for groundbreaking thinking.",
+        "submittedBy": "Admin",
         "linkToSite": "https://www.midjourney.com/home"
     },
     {
@@ -23,6 +25,7 @@
         "paidOrFree": "Paid",
         "ifPaidPrice": "from $179 / mo",
         "tags": ["All", "Text", "Summarizer"],
+        "submittedBy": "Pasindu",
         "shortDescription": "SummarizeBot is an AI-powered tool that quickly summarizes various content types, supports multiple languages, and integrates with platforms like Facebook Messenger and Slack for users.",
         "linkToSite": "https://www.summarizebot.com/"
     }
